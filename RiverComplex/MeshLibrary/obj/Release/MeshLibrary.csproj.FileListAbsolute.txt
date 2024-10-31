@@ -1,0 +1,14 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\bin\Release\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\bin\Release\MeshLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\bin\Release\MeshLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\bin\Release\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\bin\Release\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\bin\Release\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\bin\Release\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\bin\Release\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\obj\Release\MeshLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\obj\Release\MeshLibrary.AreaControl.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\obj\Release\MeshLibrary.MeshLibControl.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\obj\Release\MeshLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\obj\Release\MeshLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\obj\Release\MeshLibrary.pdb

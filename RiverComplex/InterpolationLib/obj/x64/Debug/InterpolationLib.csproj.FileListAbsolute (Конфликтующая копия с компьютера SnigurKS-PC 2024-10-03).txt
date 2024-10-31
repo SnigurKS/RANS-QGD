@@ -1,0 +1,4 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\bin\x64\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\bin\x64\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.pdb

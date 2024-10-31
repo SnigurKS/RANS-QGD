@@ -1,0 +1,13 @@
+D:\Dropbox\работа\NoOpenCL\RiverComplex\Cloo\bin\Debug\Cloo.dll.config
+D:\Dropbox\работа\NoOpenCL\RiverComplex\Cloo\bin\Debug\Cloo.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\Cloo\bin\Debug\Cloo.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\Cloo\bin\Debug\Cloo.xml
+D:\Dropbox\работа\NoOpenCL\RiverComplex\Cloo\obj\Debug\Cloo.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\Cloo\obj\Debug\Cloo.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\Cloo\obj\Debug\Cloo.VS2010.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\Debug\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\Debug\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\Debug\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\Debug\Cloo.pdb

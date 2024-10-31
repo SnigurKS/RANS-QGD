@@ -1,0 +1,8 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\bin\x64\Release\ShowGraphic.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\bin\x64\Release\ShowGraphic.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Release\ShowGraphic.ChartForm.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Release\ShowGraphic.FaceGraph.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Release\ShowGraphic.FShow.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Release\GraphicLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Release\ShowGraphic.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Release\ShowGraphic.pdb

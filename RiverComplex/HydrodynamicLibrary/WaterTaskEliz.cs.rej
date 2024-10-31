@@ -1,0 +1,33 @@
+diff a/RiverComplex/HydrodynamicLibrary/WaterTaskEliz.cs b/RiverComplex/HydrodynamicLibrary/WaterTaskEliz.cs	(rejected hunks)
+@@ -594,17 +594,31 @@
+                      {
+                          throw new Exception("Введенный профиль скорости не совпадает по количеству точек с размерами сетки");
+                      }
+++<<<<<<< HEAD
+ +                    for (int i = 0; i < NLeft; i++)
+ +                    {
+ +                        int knot = BLeftKnots[i];
+ +                        y = (Y[knot] - Y[0]);
+ +                        double Sz = 0.2 * (Q / Hn) * (Q / Hn) * (Q / Hn) / Hn / Ww;
+ +                        double Kk = 1.4 * Math.Sqrt((rho_s - rho_w) * g * d) / kappa / Math.Sqrt(rho_w * g * Hn * J);
+ +                        if (y == 0)
+ +                            S[knot] = Sz;
+ +                        else
+ +                            S[knot] = Sz * Math.Pow(2 * d / y, Kk);
+ +                    }
+++=======
++                     //for (int i = 0; i < NLeft; i++)
++                     //{
++                     //    int knot = BLeftKnots[i];
++                     //    y = (Y[knot] - Y[0]);
++                     //    double Sz = 0.2 * (Q / Hn) * (Q / Hn) * (Q / Hn) / Hn / W;
++                     //    double Kk = 1.4 * Math.Sqrt((rho_s - rho_w) * g * d) / kappa / Math.Sqrt(rho_w * g * Hn * J);
++                     //    if (y == 0)
++                     //        S[knot] = Sz;
++                     //    else
++                     //        S[knot] = Sz * Math.Pow(2 * d / y, Kk);
++                     //}
+++>>>>>>> 0cb323c... Добавлен метод расчета Zeta в BedLoadTaskPPG по статье КИМ 2019 (неявная схема с нелинейностью на нижнем слое). Выполнены сравнительные тесты с Maple - вес ок. Файл теста находится в UT_WallFuncVolkov_Zeta.
+                  }
+                  // Гу слева прописывается во всей области
+                  for (int i = NLeft; i < CountKnots; i++)

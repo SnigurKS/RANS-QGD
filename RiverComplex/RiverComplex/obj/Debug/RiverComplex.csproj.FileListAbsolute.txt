@@ -1,0 +1,92 @@
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\Cloo.dll.config
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\RiverComplex.exe.config
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\RiverComplex.exe
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\RiverComplex.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\AlgebraLibrary.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\HydrodynamicLibrary.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\MeshLibrary.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\RiverTaskLibrary.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\ShowGraphic.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\VisualizationLibrary.exe
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\Cloo.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\InterpolationLib.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\AlgebraLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\HydrodynamicLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\MeshLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\RiverTaskLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\VisualizationLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\Cloo.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\Cloo.xml
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\bin\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\obj\Debug\RiverComplex.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\obj\Debug\RiverComplex.Form1.resources
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\obj\Debug\RiverComplex.Properties.Resources.resources
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\obj\Debug\RiverComplex.csproj.GenerateResource.Cache
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\obj\Debug\RiverComplex.exe
+D:\Dropbox\работа\NoOpenCL\RiverComplex\RiverComplex\obj\Debug\RiverComplex.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverComplex.exe.config
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.exe
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverComplex.exe
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverComplex.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\AlgebraLibrary.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\HydrodynamicLibrary.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\InterpolationLib.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\MeshLibrary.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverTaskLibrary.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\ShowGraphic.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\VisualizationLibrary.exe
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\Cloo.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\AlgebraLibrary.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\HydrodynamicLibrary.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\InterpolationLib.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\MeshLibrary.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverTaskLibrary.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\ShowGraphic.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\VisualizationLibrary.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\Cloo.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\bin\Debug\Cloo.xml
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.Form1.resources
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.Properties.Resources.resources
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.Form1.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.Properties.Resources.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverComplex.exe.config
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverComplex.exe
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverComplex.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\AlgebraLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\HydrodynamicLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\MeshLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverTaskLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\ShowGraphic.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\VisualizationLibrary.exe
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\AlgebraLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\HydrodynamicLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\MeshLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\RiverTaskLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\VisualizationLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.exe
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\obj\Debug\RiverComplex.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\AlgGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\DiffGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\FletcherGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\OrthoGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\UVKernel_x32.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\UVKernel_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\ManagedCuda.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\ManagedCuda.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverComplex\bin\Debug\ManagedCuda.xml

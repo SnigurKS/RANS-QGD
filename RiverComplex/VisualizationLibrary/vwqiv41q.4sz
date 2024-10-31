@@ -1,0 +1,303 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using MeshLibrary;
+
+namespace VisualizationLibrary
+{
+    public partial class MainForm : Form
+    {
+        Bitmap bm;
+        int xshift = 10;
+        int yshift = 10;
+        RectangleF Rec;
+        double MinX, MinY, MaxX, MaxY;
+        protected int WS = 500;
+        protected int HS = 500;
+        //
+        Mesh M;
+        Graphics g;
+        double[] Data;
+        IsoLines il;
+        //
+        int ZoomCount = 10;
+        Point[] p = null;
+        int ch = 0;
+        ColorGradient c;
+        ColorVectors v;
+        public MainForm()
+        {
+            InitializeComponent();
+            //
+            WS = this.Width - 100;
+            HS = this.Height - 100;
+            p = new Point[ZoomCount];
+            //
+            g = this.CreateGraphics();
+            // или из битамапа, если рисовать заливку с изолиниями или векторами
+            //
+            Area area = new Area(0, 2, 5, 0, 50, 1);
+            AlgParameter AlgP = new AlgParameter(50, 30, 0, 1, 1);
+            Parameter[] param = new Parameter[1];
+            param[0] = AlgP;
+            MeshBuilder mb = new MeshBuilder(area, param);
+            mb.GenerateMesh();
+            M = mb.FinalMesh;
+            //
+            Data = new double[50 * 30];
+            for (int i = 0; i < 50; i++)
+                for (int j = 0; j < 30; j++)
+                    Data[i * 30 + j] = j;
+                    //Data[i * 30 + j] = i;
+            //
+            MinX = M.X.Min(); MinY = M.Y.Min(); MaxX = M.X.Max(); MaxY = M.Y.Max();
+            Rec = new RectangleF((float)MinX, (float)MaxY, (float)(MaxX - MinX), (float)(MaxY - MinY));
+            //
+            //il = new IsoLines();
+            //il.Izo(M, Data,0, 0, 15);
+            ////
+            //c = new ColorGradient(Color.Red, Color.Blue, M);
+            //c.FillArea(WS, HS, Data);
+            //
+            v = new ColorVectors(M, WS, HS, 2, 2, Color.Red, Color.Blue, 1.0f);
+            v.DrawColorVectors(Data, Data, WS, HS);
+            
+            
+        }
+
+        private void MainForm_Paint(object sender, PaintEventArgs e)
+        {
+            bm = v.GetBitmap;
+            //
+            //e.Graphics.DrawImage(bm, xshift, yshift, WS, HS);
+            e.Graphics.DrawImage(bm, 10, 10, this.Width - 100, this.Height - 100);
+            
+            //DrawIso(il, false); // добавить выбор шрифта, цвета линии и шрифта
+            //DrawAreaBoundaries();
+            //DrawIsoBitmap(il, true);
+            //e.Graphics.DrawImage(pictureBox1.Image, 0, 0);
+            
+            //
+           
+        }
+
+        private void DrawAreaBoundaries()
+        {
+            Pen pen = new Pen(Color.Brown, 2.0f);
+            for (int p = 0; p < M.CountLeft - 1; p++)
+            {
+                int num1 = M.LeftKnots[p];
+                int num2 = M.LeftKnots[p + 1]; ;
+                //
+                Point pp1 = new Point(ScaleX(M.X[num1]), ScaleY(M.Y[num1]));
+                Point pp2 = new Point(ScaleX(M.X[num2]), ScaleY(M.Y[num2]));
+                g.DrawLine(pen, pp1, pp2);
+                //
+                num1 = M.RightKnots[p];
+                num2 = M.RightKnots[p + 1]; ;
+                //
+                pp1 = new Point(ScaleX(M.X[num1]), ScaleY(M.Y[num1]));
+                pp2 = new Point(ScaleX(M.X[num2]), ScaleY(M.Y[num2]));
+                g.DrawLine(pen, pp1, pp2);
+
+            }
+            //
+            for (int p = 0; p < M.CountBottom - 1; p++)
+            {
+                int num1 = M.BottomKnots[p];
+                int num2 = M.BottomKnots[p + 1];
+                //
+                Point pp1 = new Point(ScaleX(M.X[num1]), ScaleY(M.Y[num1]));
+                Point pp2 = new Point(ScaleX(M.X[num2]), ScaleY(M.Y[num2]));
+                g.DrawLine(pen, pp1, pp2);
+                //
+                num1 = M.TopKnots[p];
+                num2 = M.TopKnots[p + 1]; ;
+                //
+                pp1 = new Point(ScaleX(M.X[num1]), ScaleY(M.Y[num1]));
+                pp2 = new Point(ScaleX(M.X[num2]), ScaleY(M.Y[num2]));
+                g.DrawLine(pen, pp1, pp2);
+
+            }
+        }
+        void DrawIso(IsoLines Iso, bool Text)
+        {
+            int count = Iso.Count;
+            Pen pen0 = new Pen(Brushes.Red, 1.5f);
+            Pen[] pen = new Pen[count];
+            //
+            if (Text)
+            {
+                for (int i = 0; i < count; i++)
+                    pen[i] = pen0;
+            }
+            else
+            {
+                ColorGradient CGrad = new ColorGradient();
+                Color[] c = CGrad.GetColorIsoLines(il.Count, Color.Red, Color.Blue);
+                for (int i = 0; i < count; i++)
+                    pen[i] = new Pen(c[i], 1.5f);
+            }
+            //
+            float size = 11.0f;
+            //
+            double [][] X = Iso.GetX;
+            double[][] Y = Iso.GetY;
+            //
+            for (int l = 0; l < count; l++)
+            {
+                for (int i = 0; i < X[l].Length-1; i++)
+                {
+                    int cx = ScaleX(X[l][i]);
+                    int cy = ScaleY(Y[l][i]);
+                    Point Point1 = new Point(cx, cy);
+                    //
+                    cx = ScaleX(X[l][i + 1]);
+                    cy = ScaleY(Y[l][i + 1]);
+                    Point Point2 = new Point(cx, cy);
+                    //
+                    g.DrawLine(pen[l], Point1, Point2);
+
+                }
+            }
+            if (Text)
+            {
+                Font f = new Font("Times New Roman", size);
+                Brush BrushText = Brushes.Black;
+                int c2 = 0;
+                for (int i = 0; i < count; i++)
+                {
+                    c2 = X[i].Length / 2;
+                    // координаты отрисовки цифр
+                    int cx = ScaleX(X[i][c2]);
+                    int cy = ScaleY(Y[i][c2]);
+                    string res = String.Format("{0:f2}", Iso.Value(i));
+                    //
+                    RectangleF recWhite;
+                    if (Math.Abs(X[i][c2] - X[i][c2 + 3]) > Math.Abs(Y[i][c2] - Y[i][c2 + 3]))
+                    {
+                        recWhite = new RectangleF(cx, cy, size * (res.Length-1), size * 2);
+                        cy -= (int)size;
+                    }
+                    else
+                    {
+                        recWhite = new RectangleF(cx, cy, size * 2, size * 2);
+                        cx -= (int)size * 2;
+                    }
+                    g.FillRectangle(Brushes.White, recWhite);
+                    Point point = new Point(cx, cy);
+                    
+                    g.DrawString(res, f, BrushText, point);
+                    // изменение координат
+                }
+            }
+        }
+        //
+        void DrawFill(Color Max, Color Min, double[] Massive, Mesh M)
+        { }
+        //
+        /// <summary>
+        /// Расчет экранной координаты по х
+        /// </summary>
+        /// <param name="xa"></param>
+        /// <returns></returns>
+        protected int ScaleX(double xa)
+        {
+            int ix = (int)(WS * (xa - MinX) / Rec.Width) + xshift;
+            return ix;
+        }
+        /// <summary>
+        /// Расчет экранной координаты по y
+        /// </summary>
+        /// <param name="xa"></param>
+        /// <returns></returns>
+        protected int ScaleY(double yc)
+        {
+            int iy = (int)(HS - HS * (yc - MinY) / Rec.Height) + yshift;
+            return iy;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Invalidate();
+            WS = this.Width - 100;
+            HS = this.Height - 100;
+            xshift = 10;
+            yshift = 10;
+            ch = 0;
+        }
+
+        private void pictureBox1_Resize(object sender, EventArgs e)
+        {
+            WS = ClientRectangle.Width;
+            HS = ClientRectangle.Height;
+        }
+        int x = 0, y = 0;
+        private void MainForm_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                if (ch >= (ZoomCount + 1))
+                    MessageBox.Show("Это масимальное увеличение, чтобы увеличить больше, измените настройки.");
+                else
+                {
+                    WS *= 2 ;
+                    HS *= 2;
+                    p[ch] = e.Location;
+                    xshift = ClientRectangle.Width / 2 - (p[ch].X - xshift) * 2;
+                    yshift = ClientRectangle.Height / 2 - (p[ch].Y - yshift) * 2;
+                }
+
+                if (c != null)
+                {
+                    x = (p[ch].X + x) * 2 - c.W / 2;
+                    y = (p[ch].Y + y) * 2 - c.H / 2;
+                    c.FillPartArea(x, y, WS, HS, Data);
+                }
+
+                if (v != null)
+                {
+                    x = (p[ch].X + x) * 2 - v.W / 2;
+                    y = (p[ch].Y + y) * 2 - v.H / 2;
+                    v.DrawColorVectors(Data, Data, x, y, WS, HS);
+                }
+                ch++;
+                Invalidate();
+            }
+            else
+            {
+                ch--;
+                if (ch >= 0)
+                {
+                    WS /= 2;
+                    HS /= 2;
+                    xshift = (xshift - ClientRectangle.Width / 2) / 2 + p[ch].X;
+                    yshift = (yshift - ClientRectangle.Height / 2) / 2 + p[ch].Y;
+                    
+                }
+                else
+                    ch = 0;
+                if (c != null)
+                {
+                    x = (x + c.W / 2 - 2 * p[ch].X) / 2;
+                    y = (y + c.H / 2 - 2 * p[ch].Y) / 2;
+                    c.FillPartArea(x, y, WS, HS, Data);
+                }
+                //
+                if (v != null)
+                {
+                    x = (x + v.W / 2 - 2 * p[ch].X) / 2;
+                    y = (y + v.H / 2 - 2 * p[ch].Y) / 2;
+                    v.DrawColorVectors(Data, Data, x, y, WS, HS);
+                }
+                Invalidate();
+            }
+        }
+    }
+}

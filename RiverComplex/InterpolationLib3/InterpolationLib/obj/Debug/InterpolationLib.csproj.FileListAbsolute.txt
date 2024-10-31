@@ -1,0 +1,4 @@
+c:\users\snigurks\documents\visual studio 2013\Projects\InterpolationLib\InterpolationLib\bin\Debug\InterpolationLib.dll
+c:\users\snigurks\documents\visual studio 2013\Projects\InterpolationLib\InterpolationLib\bin\Debug\InterpolationLib.pdb
+c:\users\snigurks\documents\visual studio 2013\Projects\InterpolationLib\InterpolationLib\obj\Debug\InterpolationLib.dll
+c:\users\snigurks\documents\visual studio 2013\Projects\InterpolationLib\InterpolationLib\obj\Debug\InterpolationLib.pdb

@@ -1,0 +1,156 @@
+﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MeshLibrary;
+using HydrodynamicLibrary;
+
+
+namespace UnitTestProject_HL
+{
+    [TestClass]
+    public class CV2_Test
+    {
+        [TestMethod]
+        public void TestMethod1()
+        {
+            double[] Xt = new double[] { 0, 1, 2, 3, 4 };
+            double[] Yt = new double[] { 2, 2, 2, 2, 2 };
+            double[] Yb = new double[] { 0, 0, 0, 0, 0 };
+            Area ar = new Area(Xt, Yt, Xt, Yb);
+            Parameter[] Prs = new Parameter[1];
+            Parameter p = new AlgParameter(5, 5, 0, 1.0, 1.0);
+            Prs[0] = p;
+            MeshBuilder mb = new MeshBuilder(ar, Prs, false);
+            //
+            mb.GenerateMesh();
+            Mesh m = mb.FinalMesh;
+            //
+            int[][] CV = new int[9][];
+            CV[0] = new[] { 6, 16, 17, 24, 26, 19, 18 };
+            CV[1] = new[] { 7, 8, 9, 16, 18, 11, 10 };
+            CV[2] = new[] { 8, 0, 1, 8, 10, 3, 2 };
+            CV[3] = new[] { 11, 19, 26, 27, 29, 28, 21 };
+            CV[4] = new[] { 12, 11, 18, 19, 21, 20, 13 };
+            CV[5] = new[] { 13, 3, 10, 11, 13, 12, 5 };
+            CV[6] = new[] { 16, 20, 21, 28, 30, 23, 22 };
+            CV[7] = new[] { 17, 12, 13, 20, 22, 15, 14 };
+            CV[8] = new[] { 18, 4, 5, 12, 14, 7, 6 };
+            //
+            int[][] CV2 = new int[3][];
+            CV2[0] = new int[] { 7, 8, 9, 16, 18, 11, 10 };
+            CV2[1] = new int[] { 12, 11, 18, 19, 21, 20, 13 };
+            CV2[2] = new int[] { 17, 12, 13, 20, 22, 15, 14 };
+            //
+            int[][] CV_WallKnots = new int[6][];
+            CV_WallKnots[0] = new int[] { 6, 16, 17, 24, 26, 19, 18 };
+            CV_WallKnots[1] = new[] { 8, 0, 1, 8, 10, 3, 2 };
+            CV_WallKnots[2] = new int[] { 11, 19, 26, 27, 29, 28, 21 };
+            CV_WallKnots[3] = new[] { 13, 3, 10, 11, 13, 12, 5 };
+            CV_WallKnots[4] = new int[] { 16, 20, 21, 28, 30, 23, 22 };
+            CV_WallKnots[5] = new[] { 18, 4, 5, 12, 14, 7, 6 };
+            //
+            double[] CV_wallKnotsDistance = new double[] { 0.5, 0.5, 0.5 };
+            //
+            for (int i = 0; i < CV.Length; i++)
+            {
+                for (int j = 0; j < CV[i].Length; j++)
+                {
+                    Assert.AreEqual(m.CVolumes[i][j], CV[i][j]);
+                }
+            }
+            //Assert.AreEqual(m.CVolumes, CV);
+            for (int i = 0; i < CV2.Length; i++)
+            {
+                for (int j = 0; j < CV2[i].Length; j++)
+                {
+                    Assert.AreEqual(CV2[i][j], m.CV2[i][j]);
+                }
+            }
+            //Assert.AreEqual(CV2, m.CV2);
+            for (int i = 0; i < CV_WallKnots.Length; i++)
+            {
+                for (int j = 0; j < CV_WallKnots[i].Length; j++)
+                {
+                    Assert.AreEqual(CV_WallKnots[i][j], m.CV_WallKnots[i][j]);
+                }
+            }
+            //Assert.AreEqual(CV_WallKnots, m.CV_WallKnots);
+            for (int i = 0; i < CV_wallKnotsDistance.Length; i++)
+            {
+                Assert.AreEqual(CV_wallKnotsDistance[i], m.CV_WallKnotsDistance[i]);
+            }
+            //Assert.AreEqual(CV_wallKnotsDistance, m.CV_WallKnotsDistance);
+        }
+        //
+          [TestMethod]
+        public void TestMethod2()
+        {
+            double[] Xt = new double[] { 0, 1, 2, 3, 4 };
+            double[] Yt = new double[] { 2, 2, 2, 2, 2 };
+            double[] Yb = new double[] { 0, 0, 0, 0, 0 };
+            Area ar = new Area(Xt, Yt, Xt, Yb);
+            Parameter[] Prs = new Parameter[1];
+            Parameter p = new AlgParameter(5, 5, 0, 1.0, 1.0);
+            Prs[0] = p;
+            MeshBuilder mb = new MeshBuilder(ar, Prs, true);
+            //
+            mb.GenerateMesh();
+            Mesh m = mb.FinalMesh;
+            //
+            int[][] CV = new int[9][];
+            CV[0] = new[] { 6, 16, 17, 24, 26, 19, 18 };
+            CV[1] = new[] { 7, 8, 9, 16, 18, 11, 10 };
+            CV[2] = new[] { 8, 0, 1, 8, 10, 3, 2 };
+            CV[3] = new[] { 11, 19, 26, 27, 29, 28, 21 };
+            CV[4] = new[] { 12, 11, 18, 19, 21, 20, 13 };
+            CV[5] = new[] { 13, 3, 10, 11, 13, 12, 5 };
+            CV[6] = new[] { 16, 20, 21, 28, 30, 23, 22 };
+            CV[7] = new[] { 17, 12, 13, 20, 22, 15, 14 };
+            CV[8] = new[] { 18, 4, 5, 12, 14, 7, 6 };
+            //
+            int[][] CV2 = new int[6][];
+            CV2[0] = new int[] { 7, 8, 9, 16, 18, 11, 10 };
+            CV2[1] = new int[] { 8, 0, 1, 8, 10, 3, 2 };
+            CV2[2] = new int[] { 12, 11, 18, 19, 21, 20, 13 };
+            CV2[3] = new int[] { 13, 3, 10, 11, 13, 12, 5 };
+            CV2[4] = new int[] { 17, 12, 13, 20, 22, 15, 14 };
+            CV2[5] = new int[] { 18, 4, 5, 12, 14, 7, 6 };
+            //
+            int[][] CV_WallKnots = new int[3][];
+            CV_WallKnots[0] = new int[] { 6, 16, 17, 24, 26, 19, 18 };
+            CV_WallKnots[1] = new int[] { 11, 19, 26, 27, 29, 28, 21 };
+            CV_WallKnots[2] = new int[] { 16, 20, 21, 28, 30, 23, 22 };
+            //
+            double[] CV_wallKnotsDistance = new double[] { 0.5, 0.5, 0.5 };
+            //
+            for (int i = 0; i < CV.Length; i++)
+            {
+                for (int j = 0; j < CV[i].Length; j++)
+                {
+                    Assert.AreEqual(m.CVolumes[i][j], CV[i][j]);
+                }
+            }
+            //Assert.AreEqual(m.CVolumes, CV);
+            for (int i = 0; i < CV2.Length; i++)
+            {
+                for (int j = 0; j < CV2[i].Length; j++)
+                {
+                    Assert.AreEqual(CV2[i][j], m.CV2[i][j]);
+                }
+            }
+            //Assert.AreEqual(CV2, m.CV2);
+            for (int i = 0; i < CV_WallKnots.Length; i++)
+            {
+                for (int j = 0; j < CV_WallKnots[i].Length; j++)
+                {
+                    Assert.AreEqual(CV_WallKnots[i][j], m.CV_WallKnots[i][j]);
+                }
+            }
+            //Assert.AreEqual(CV_WallKnots, m.CV_WallKnots);
+            for (int i = 0; i < CV_wallKnotsDistance.Length; i++)
+            {
+                Assert.AreEqual(CV_wallKnotsDistance[i], m.CV_WallKnotsDistance[i]);
+            }
+            //Assert.AreEqual(CV_wallKnotsDistance, m.CV_WallKnotsDistance);
+        }
+    }
+}

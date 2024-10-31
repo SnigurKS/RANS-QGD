@@ -1,0 +1,10 @@
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\x64\Release\ManagedCuda.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\x64\Release\ManagedCuda.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\x64\Release\ManagedCuda.xml
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\obj\x64\Release\ManagedCuda.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\obj\x64\Release\ManagedCuda.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\ManagedCUDA\bin\x64\Release\ManagedCuda.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\ManagedCUDA\bin\x64\Release\ManagedCuda.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\ManagedCUDA\bin\x64\Release\ManagedCuda.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\ManagedCUDA\obj\x64\Release\ManagedCuda.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\ManagedCUDA\obj\x64\Release\ManagedCuda.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.pdb

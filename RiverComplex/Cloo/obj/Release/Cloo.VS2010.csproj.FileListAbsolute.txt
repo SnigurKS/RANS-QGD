@@ -1,0 +1,7 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\Release\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\Release\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\Release\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\Release\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\Release\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\Release\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\Release\Cloo.VS2010.csprojResolveAssemblyReference.cache

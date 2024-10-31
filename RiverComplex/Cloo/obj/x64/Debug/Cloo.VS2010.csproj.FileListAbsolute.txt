@@ -1,0 +1,15 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.VS2010.csprojResolveAssemblyReference.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.dll.config
+C:\D\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\Cloo\bin\x64\Debug\Cloo.xml
+C:\D\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.VS2010.csproj.AssemblyReference.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.VS2010.csproj.CoreCompileInputs.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\Cloo\obj\x64\Debug\Cloo.pdb

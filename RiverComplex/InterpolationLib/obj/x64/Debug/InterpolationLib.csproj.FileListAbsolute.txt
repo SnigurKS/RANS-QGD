@@ -1,0 +1,11 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\bin\x64\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\bin\x64\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.csprojResolveAssemblyReference.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\bin\x64\Debug\InterpolationLib.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\bin\x64\Debug\InterpolationLib.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.csproj.AssemblyReference.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.csproj.CoreCompileInputs.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib\obj\x64\Debug\InterpolationLib.pdb

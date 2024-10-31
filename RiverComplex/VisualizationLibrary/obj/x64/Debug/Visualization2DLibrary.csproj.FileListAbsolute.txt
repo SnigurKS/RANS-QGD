@@ -1,0 +1,126 @@
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.dll.config
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgGrid_x64.ptx
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\DiffGrid_x64.ptx
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\FletcherGrid_x64.ptx
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgGrid.cl
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\Diff.cl
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\F1.cl
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\OrthoGrid_x64.ptx
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\Ortho.cl
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKernel_x32.ptx
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKernel_x64.ptx
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKE_OpenCL.cl
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\D10.txt
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\D20.txt
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\D30.txt
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\Tuv_av.txt
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.exe.config
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.exe
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\HydrodynamicLibrary.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\MeshLibrary.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\InterpolationLib.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgebraLibrary.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\ShowGraphic.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\HydrodynamicLibrary.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\MeshLibrary.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\InterpolationLib.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgebraLibrary.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\ShowGraphic.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.xml
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.xml
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\obj\x64\Debug\Visualization2DLibrary.csprojResolveAssemblyReference.cache
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.MainForm.resources
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.Properties.Resources.resources
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\obj\x64\Debug\Visualization2DLibrary.csproj.GenerateResource.Cache
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.exe
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\DiffGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\FletcherGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\OrthoGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgGrid.cl
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Diff.cl
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\F1.cl
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Ortho.cl
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKernel_x32.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKernel_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKE_OpenCL.cl
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\D10.txt
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\D20.txt
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\D30.txt
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Tuv_av.txt
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.exe.config
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.exe
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\HydrodynamicLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\MeshLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgebraLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ShowGraphic.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\HydrodynamicLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\MeshLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgebraLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\Visualization2DLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.MainForm.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.Properties.Resources.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\Visualization2DLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.exe
+D:\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.dll.config
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgGrid_x64.ptx
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\DiffGrid_x64.ptx
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\FletcherGrid_x64.ptx
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\OrthoGrid_x64.ptx
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgGrid.cl
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Diff.cl
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\F1.cl
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Ortho.cl
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKernel_x32.ptx
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKernel_x64.ptx
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\UVKE_OpenCL.cl
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\D10.txt
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\D20.txt
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\D30.txt
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Tuv_av.txt
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.exe.config
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.exe
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\VisualizationLibrary.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\HydrodynamicLibrary.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\MeshLibrary.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\InterpolationLib.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ShowGraphic.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgebraLibrary.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\HydrodynamicLibrary.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\HydrodynamicLibrary.dll.config
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\MeshLibrary.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\InterpolationLib.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ShowGraphic.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\AlgebraLibrary.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\Cloo.xml
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\bin\x64\Debug\ManagedCuda.xml
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\Visualization2DLibrary.csproj.AssemblyReference.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.MainForm.resources
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.Properties.Resources.resources
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\Visualization2DLibrary.csproj.GenerateResource.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\Visualization2DLibrary.csproj.CoreCompileInputs.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\Visualiz.BF5D6F76.Up2Date
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.exe
+C:\D\Dropbox\работа\GitRepo\RiverComplex\VisualizationLibrary\obj\x64\Debug\VisualizationLibrary.pdb

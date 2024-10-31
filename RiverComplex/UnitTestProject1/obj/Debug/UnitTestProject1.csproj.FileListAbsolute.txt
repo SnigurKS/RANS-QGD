@@ -1,0 +1,4 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

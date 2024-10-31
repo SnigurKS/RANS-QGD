@@ -1,0 +1,16 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\RiverTaskLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\RiverTaskLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\AlgebraLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\MeshLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\AlgebraLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\MeshLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\bin\Release\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\obj\Release\RiverTaskLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\obj\Release\RiverTaskLibrary.RiverTaskControl.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\obj\Release\RiverTaskLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\obj\Release\RiverTaskLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\RiverTask\obj\Release\RiverTaskLibrary.pdb

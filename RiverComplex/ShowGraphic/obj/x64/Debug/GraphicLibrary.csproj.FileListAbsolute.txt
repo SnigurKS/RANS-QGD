@@ -1,0 +1,28 @@
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\bin\x64\Debug\ShowGraphic.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\bin\x64\Debug\ShowGraphic.pdb
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\obj\x64\Debug\GraphicLibrary.csprojResolveAssemblyReference.cache
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.ChartForm.resources
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.FaceGraph.resources
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.FShow.resources
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\obj\x64\Debug\GraphicLibrary.csproj.GenerateResource.Cache
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.dll
+D:\work\GitRepo\GitRepo 01.11.2019\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\bin\x64\Debug\ShowGraphic.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\bin\x64\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.ChartForm.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.FaceGraph.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.FShow.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\GraphicLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\GraphicLibrary.csprojResolveAssemblyReference.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\bin\x64\Debug\ShowGraphic.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\bin\x64\Debug\ShowGraphic.pdb
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\GraphicLibrary.csproj.AssemblyReference.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.ChartForm.resources
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.FaceGraph.resources
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.FShow.resources
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\GraphicLibrary.csproj.GenerateResource.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\GraphicLibrary.csproj.CoreCompileInputs.cache
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.dll
+C:\D\Dropbox\работа\GitRepo\RiverComplex\ShowGraphic\obj\x64\Debug\ShowGraphic.pdb

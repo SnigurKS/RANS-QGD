@@ -1,0 +1,5 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib3\InterpolationLib\obj\Debug\InterpolationLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib3\InterpolationLib\bin\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib3\InterpolationLib\bin\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib3\InterpolationLib\obj\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\InterpolationLib3\InterpolationLib\obj\Debug\InterpolationLib.pdb

@@ -1,0 +1,8 @@
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ShowGraphic\bin\Debug\ShowGraphic.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ShowGraphic\bin\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ShowGraphic\obj\Debug\ShowGraphic.ChartForm.resources
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ShowGraphic\obj\Debug\ShowGraphic.FShow.resources
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ShowGraphic\obj\Debug\ShowGraphic.csproj.GenerateResource.Cache
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ShowGraphic\obj\Debug\ShowGraphic.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ShowGraphic\obj\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ShowGraphic\obj\Debug\ShowGraphic.csprojResolveAssemblyReference.cache

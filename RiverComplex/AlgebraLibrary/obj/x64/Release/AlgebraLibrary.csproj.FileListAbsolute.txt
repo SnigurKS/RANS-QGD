@@ -1,0 +1,11 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\x64\Release\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\x64\Release\AlgebraLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\x64\Release\AlgebraLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\x64\Release\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\x64\Release\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\x64\Release\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\x64\Release\AlgebraLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\x64\Release\AlgebraLibrary.AlgebraLibControl.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\x64\Release\AlgebraLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\x64\Release\AlgebraLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\x64\Release\AlgebraLibrary.pdb

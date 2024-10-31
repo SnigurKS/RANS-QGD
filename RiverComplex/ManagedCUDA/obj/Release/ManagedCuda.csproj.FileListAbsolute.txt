@@ -1,0 +1,5 @@
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\Release\ManagedCuda.xml
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\Release\ManagedCuda.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\Release\ManagedCuda.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\obj\Release\ManagedCuda.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\obj\Release\ManagedCuda.pdb

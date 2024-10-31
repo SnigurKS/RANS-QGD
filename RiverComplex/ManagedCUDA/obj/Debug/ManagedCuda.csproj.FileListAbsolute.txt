@@ -1,0 +1,15 @@
+C:\Users\SnigurKS\Desktop\NoOpenCL\NoOpenCL\RiverComplex\ManagedCUDA\bin\Debug\ManagedCuda.xml
+C:\Users\SnigurKS\Desktop\NoOpenCL\NoOpenCL\RiverComplex\ManagedCUDA\bin\Debug\ManagedCuda.dll
+C:\Users\SnigurKS\Desktop\NoOpenCL\NoOpenCL\RiverComplex\ManagedCUDA\bin\Debug\ManagedCuda.pdb
+C:\Users\SnigurKS\Desktop\NoOpenCL\NoOpenCL\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.csprojResolveAssemblyReference.cache
+C:\Users\SnigurKS\Desktop\NoOpenCL\NoOpenCL\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.dll
+C:\Users\SnigurKS\Desktop\NoOpenCL\NoOpenCL\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\Debug\ManagedCuda.xml
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\Debug\ManagedCuda.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\bin\Debug\ManagedCuda.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\ManagedCUDA\obj\Debug\ManagedCuda.pdb

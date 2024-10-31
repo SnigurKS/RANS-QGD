@@ -1,0 +1,28 @@
+﻿Build started 6/11/2024 6:43:02 PM.
+     1>Project "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherKernel.vcxproj" on node 2 (Rebuild target(s)).
+     1>CudaClean:
+         cmd.exe /C "C:\Users\SnigurKS\AppData\Local\Temp\tmp07bcfcea1e374ce592d813f7b5cf6baf.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 -ptx   -o D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\FletcherGrid_x64.ptx "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherGrid.cu" -clean
+         
+         D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 -ptx   -o D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\FletcherGrid_x64.ptx "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherGrid.cu" -clean 
+     1>CUDACOMPILE : nvcc warning : The 'compute_20', 'sm_20', and 'sm_21' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+         FletcherGrid.cu
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FletcherKernel.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+       AddCudaCompileDeps:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /DWIN32 /DWIN64 /D_DEBUG /D_CONSOLE /D_MBCS /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" /I. /FIcuda_runtime.h /c D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherGrid.cu 
+     1>Project "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherKernel.vcxproj" (1) is building "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherKernel.vcxproj" (1:2) on node 3 (CudaBuildCore target(s)).
+     1>CudaBuildCore:
+         Compiling CUDA source file FletcherGrid.cu...
+         cmd.exe /C "C:\Users\SnigurKS\AppData\Local\Temp\tmp93df29d0f06b437aa22aee7addbc41d4.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" --use-local-env --cl-version 2013 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 -ptx -cudart static  -o D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\FletcherGrid_x64.ptx "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherGrid.cu"
+         
+         D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" --use-local-env --cl-version 2013 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 -ptx -cudart static  -o D:\Dropbox\работа\GitRepo\RiverComplex\MeshLibrary\FletcherGrid_x64.ptx "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherGrid.cu" 
+     1>D:/Dropbox/ЁрсюЄр/GitRepo/RiverComplex/FletcherKernel/FletcherGrid.cu(126): warning : variable "l" was declared but never referenced
+     1>CUDACOMPILE : nvcc warning : The 'compute_20', 'sm_20', and 'sm_21' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+         FletcherGrid.cu
+     1>Done Building Project "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherKernel.vcxproj" (CudaBuildCore target(s)).
+     1>Done Building Project "D:\Dropbox\работа\GitRepo\RiverComplex\FletcherKernel\FletcherKernel.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.48

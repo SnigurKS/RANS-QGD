@@ -1,0 +1,11 @@
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\Release\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\Release\AlgebraLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\Release\AlgebraLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\Release\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\Release\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\bin\Release\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\Release\AlgebraLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\Release\AlgebraLibrary.AlgebraLibControl.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\Release\AlgebraLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\Release\AlgebraLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\AlgebraLibrary\obj\Release\AlgebraLibrary.pdb

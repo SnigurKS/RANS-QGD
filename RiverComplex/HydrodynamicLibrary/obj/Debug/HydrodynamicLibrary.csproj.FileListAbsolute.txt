@@ -1,0 +1,68 @@
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.dll.config
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\AlgebraLibrary.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\MeshLibrary.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\ShowGraphic.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\InterpolationLib.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\AlgebraLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\MeshLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.xml
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.TestForm.resources
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.dll
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.pdb
+D:\Dropbox\работа\NoOpenCL\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.dll.config
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.dll.config
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\AlgebraLibrary.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\InterpolationLib.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\MeshLibrary.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\ShowGraphic.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\AlgebraLibrary.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\InterpolationLib.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\MeshLibrary.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\ShowGraphic.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.pdb
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.xml
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.TestForm.resources
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.dll
+C:\Users\Igor\Desktop\___Темы\__Ксения\__10 К-Е модель в КГД\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\HydrodynamicLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\AlgebraLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\InterpolationLib.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\MeshLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\ShowGraphic.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\AlgebraLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\InterpolationLib.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\MeshLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\ShowGraphic.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.xml
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.TestForm.resources
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.csproj.GenerateResource.Cache
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\obj\Debug\HydrodynamicLibrary.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\Cloo.dll.config
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\AlgGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\DiffGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\FletcherGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\OrthoGrid_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\UVKernel_x32.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\UVKernel_x64.ptx
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\ManagedCuda.dll
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\ManagedCuda.pdb
+D:\Dropbox\работа\GitRepo\RiverComplex\HydrodynamicLibrary\bin\Debug\ManagedCuda.xml
